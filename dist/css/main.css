@@ -1,0 +1,147 @@
+.bg-padrao {
+	background-color: #d8cd00;
+}
+.bg-p-btn {
+	border: 2px solid #d8cd00;
+	color: #d8cd00;
+}
+.navbar-brand {
+	font-family: Arial, cursive;
+	font-size: 16pt;
+	font-weight: bolder;
+}
+.nav-link {
+	font-family: Arial, cursive;
+	font-weight: bold;
+}
+.header {
+	background-image: url('../imgs/bg1.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 90vh;
+	text-align: center;
+}
+.img-header {
+	margin-top: 50px;
+}
+.title {
+	font-size: 47pt;
+	color: #fff;
+}
+.title-2 {
+	font-size: 47pt;
+	color: #d8cd00;
+}
+.p {
+	color: #fff;
+	font-size: 13pt;
+}
+.rd-25 {
+	border-radius: 25px;
+}
+.btn-padrao {
+	font-family: Arial, cursive;
+	font-weight: bold;
+	color: #fff;
+}
+.newsletter {
+	border-radius: 25px;
+	background-color: #fff;
+	margin-top: -70px;
+	width: 100%;
+	align-items: center;
+	text-align: center;
+	padding: 30px;
+}
+.txt-dark {
+	color: #222222;
+}
+.txt {
+	font-size: 18pt;
+}
+.txt-padrao {
+	color: #d8cd00;
+}
+.p-1 {
+	font-size: 11pt;
+	color: #cccccc;
+}
+.content {
+	text-align: center;
+}
+.p-2 {
+	font-size: 17pt;
+	color: #ccc;
+}
+.img {
+	background-color: #808080;
+	background-size: cover;
+	width: 70%;
+	border-radius: 25px;
+	height: 35vh;
+	margin: 25px;
+}
+.t-2 {
+	font-size: 13pt;
+	color: #fff;
+}
+.footer {
+	background-color: #141414;
+	padding: 50px;
+}
+
+.txt-3 {
+	font-size: 8pt;
+	color: #919191;
+	text-decoration: none;
+}
+.ft-1 {
+	font-size: 12pt;
+	font-family: Arial, cursive;
+	font-weight: bold;
+}
+.t-none {
+	text-decoration: none;
+	margin: 0px 5px;
+}
+.bg {
+	background-color: #d8cd00;
+	background-size: cover;
+	height: 55vh;
+	margin-top: 25vh;
+	margin-bottom: -80vh;
+}
+.txt-white {
+	color: #fff;
+}
+.ml-5 {
+	margin-left: 3em;
+}
+@media (max-width: 768px) {
+	.ml-5 {
+		margin-left: 0;
+	}
+	.bg {
+		background-color: #fff;
+	}
+	.t-2 {
+		color: #222;
+	}
+	.txt-white {
+		color: #222;
+	}
+	.btn-outline-light {
+		background-color: #d8cd00; 
+		color: #fff;
+		transition: 0.8s;
+	}
+	.btn-outline-light:hover {
+		background-color: #9a9202;
+		border: 1px solid #b2a902;
+		color: #fff;
+	}
+}
+.rd-15 {
+	border-radius: 10px;
+}
